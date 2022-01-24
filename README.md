@@ -1,3 +1,6 @@
+![Screenshot (58)](https://user-images.githubusercontent.com/97581461/150762626-3f01ade5-8eef-4c68-9c66-6173a2982c1c.png)
+
+
 
 # TODO-APP
 ## This is a task management application, developed using Spring Framework and Java as programming language.
